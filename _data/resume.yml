@@ -73,12 +73,17 @@ main: #简历主要内容，
 - type: projects
   name: Projects
   content:
-  - title: 南开大学智能交互与感知实验室门户网站
-    duration: 2017年4月 - 2017年8月
-    detail: 项目和工作介绍，项目总结.
+  - title: 南海油田钻采开发物资保障体系仿真优化系统
+    duration: 2017年10月 - 2018年1月
+    detail: 该项目的目的是建立物资补供模型的计算机仿真优化系统，主要功能是测算深远海油气勘探开发的不同阶段所需要的设备、物资、人员倒班、物资救援等物资需求量 ，通过计算机仿真优化确定最优供补方案，通过对各项基本参数在合理范围内的遍历，生成结论报告，输出不同考量目标下最优物资供补方案，包括经济最优方案、时间最优方案、安全最优方案等。
     sub: 开发者
-  - title: Project Name
-    summary: Projects' introduction or summary
+  - title: 南开大学智能交互与感知实验室门户网站
+    duration: 2017年8月 - 2017年11月
+    detail: 南开大学智能交互与感知实验室的门户网站，主要功能包括用注册户登录，新闻浏览，学术研究成果展示，学术文献浏览，后台主要实现管理员对新闻发布与相关网站资源的管理。
+    sub: 开发者
+  - title: 青岛“魔法美术馆”
+    duration: 2016年11月 - 2017年7月
+    summary: 魔法美术馆是互动视觉艺术展览。展览以数字技术为基点， 兼容多媒体投影、增强现实、体感互动、红外遥感等多种手段，将艺术与娱乐完美结合。主要涉及OpenCV，Processing，Arduino ，Android的开发。
     detail:
       md: _data/demo.md
     sub: Creator and maintainer.
