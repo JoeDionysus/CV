@@ -47,28 +47,28 @@ main: #简历主要内容，
     - C
     - C++
     - Java
-  - title: Skill Group
-    summary: Web, MySQL
+#- title: Skill Group
+#    summary: Web, MySQL
 
-- type: experience
-  name: 经验
-  content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
-    tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
+#- type: experience
+#  name: 经验
+#  content:
+#  - title: 职位
+#    sub: 某某公司
+#    duration: "xxxx年xx月 - yyyy年yy月"
+#    tags:
+#    - 标签
+#    summary: 职务或者工作总结(自动折叠)
+#    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
-  - title: Job Title
-    sub: Your 2nd, Inc.  
-    duration: Apr 2013 - Mar 2016
-    tags: 
-    - tagname
-    summary: Summary your job or work. (Collapse)
-    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#  - title: Job Title
+#    sub: Your 2nd, Inc.  
+#    duration: Apr 2013 - Mar 2016
+#    tags: 
+#    - tagname
+#    summary: Summary your job or work. (Collapse)
+#    detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 - type: projects
   name: Projects
@@ -99,12 +99,13 @@ others: #其他列表显示
 #    text: "男"
 #  - title: "民族:"
 #    text: "汉族"
-  - title: "政治面貌:"
-    text: "中共党员"
-  - title: "CET-6:"
-    text: "517"
+  - title: "政治面貌: "
+    text: " 中共党员"
+  - title: "CET-6: "
+    text: " 517"
   - title: "特长及爱好:"
-    items: #单行列表
+#    items: #单行列表
+    list：
     - 学习素描五年，曾获得天津市青少年科技创新大赛科幻画项目一等奖。
     - 爱好篮球，以主力身份在2016年南开大学计算机与控制工程学院“院长杯”篮球赛中获得冠军。
 #    - coding
