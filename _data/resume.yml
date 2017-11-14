@@ -4,7 +4,7 @@
 title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "张瑞"
-jobtitle: "Java开发工程师" #可空不显示
+jobtitle: "" #可空不显示
 photo: "assets/img/1c.jpg" #照片可空，不显示
 
 #联系方式
@@ -37,17 +37,16 @@ main: #简历主要内容，
   - title: 华东师范大学
     duration: "2012年9月 - 2016年6月"
     sub: 本科生
-    detail: 计算机科学与软件工程学院
+    detail: 计算机科学与软件工程学院,计算机科学与技术
 
 - type: skills
   # name: "技能"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - Java
     - C
     - C++
-    - Python
+    - Java
   - title: Skill Group
     summary: Web, MySQL
 
@@ -114,8 +113,8 @@ footer: #脚注多组
   screen:
   - text: "简历脚注"
   #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: ""
+    href: ""
 
 #页面额外js脚本，如xx统计
 scripts:
