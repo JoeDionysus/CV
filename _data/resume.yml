@@ -44,8 +44,7 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - C
-    - C++
+    - C/C++
     - Java
 #- title: Skill Group
 #    summary: Web, MySQL
