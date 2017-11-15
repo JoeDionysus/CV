@@ -86,7 +86,7 @@ main: #简历主要内容，
     summary: 魔法美术馆是互动视觉艺术展览。展览以数字技术为基点， 兼容多媒体投影、增强现实、体感互动、红外遥感等多种手段，将艺术与娱乐完美结合。主要涉及OpenCV，Processing，Arduino ，Android的开发。
     detail:
       md: _data/demo.md
-    sub: Creator and maintainer.
+    sub: 开发者
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
